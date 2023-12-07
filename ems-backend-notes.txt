@@ -1,0 +1,11 @@
+
+------------------------------------------EMS BACKEND NOTES-------------------------------------------
+
+1. create a new database in mongodb and create a new collection named as employees
+2. create a new folder named as ems-backend 
+3. create package.json npm init -y
+4. install express,cors,mongoose,
+5. create index.js file
+6. create a new folder name as services
+7. create a db.js file inside the services folder  (for connecting node and mongodb)
+8. create a logic.js file inside the services folder for writing the logic
